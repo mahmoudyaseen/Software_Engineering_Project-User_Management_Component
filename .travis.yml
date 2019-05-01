@@ -1,6 +1,6 @@
 language: csharp
 mono: none
-dotnet: 4.6.1
+dotnet: 2.1.502
 solution: final_with_test.sln
 script:
   - dotnet restore
