@@ -1,0 +1,90 @@
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.csprojAssemblyReference.cache
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.Tests.dll.config
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.Tests.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.Tests.pdb
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.pdb
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.dll.config
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.csproj.CopyComplete
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.dll
+C:\Users\Mahmoud yaseen\Desktop\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.pdb
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.Tests.dll.config
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.Tests.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.Tests.pdb
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Helpers.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Mvc.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Razor.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Optimization.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.pdb
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\final_with_test.dll.config
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Helpers.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Mvc.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Razor.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\bin\Debug\System.Web.Optimization.xml
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.csprojAssemblyReference.cache
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.csproj.CoreCompileInputs.cache
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.csproj.CopyComplete
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.dll
+D:\f_c_i\سنه تالته\term 2\SW2\project\git test\final_with_test\final_with_test.Tests\obj\Debug\final_with_test.Tests.pdb
